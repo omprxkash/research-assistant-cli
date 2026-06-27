@@ -16,6 +16,14 @@ Ten papers across ML, NLP, computer vision, cybersecurity, and systems. Full ind
 | 8 | Neural Texture Stylization Using Deep Feature Representations | [PDF](https://github.com/omprxkash/texture-model-stylization/blob/master/Neural_Texture_Stylization_Omprakash_2025.pdf) |
 | 9 | Cross-Lingual Transfer for Low-Resource NLP | [.tex](https://github.com/omprxkash/multilingual-resource-models/blob/master/paper/main.tex) |
 | 10 | AI-Integrated Smart Blood Bank Platform | [paper.tex](papers/blood-bank/paper.tex) |
+| 11 | Cardiac Arrhythmia Detection from ECG Signals | [PDF](https://github.com/omprxkash/arrhythmia-ecg-classification/blob/master/paper/arrhythmia_ecg_classification_ieee.pdf) · [.tex](https://github.com/omprxkash/arrhythmia-ecg-classification/blob/master/paper/arrhythmia_classification_ieee.tex) |
+| 12 | Brain Tumor Segmentation from MRI Using U-Net and Diffusion Models | [PDF](https://github.com/omprxkash/brain-tumor-segmentation/blob/master/paper/brain_tumor_segmentation.pdf) · [.tex](https://github.com/omprxkash/brain-tumor-segmentation/blob/master/paper/paper.tex) |
+| 13 | ML-Based CAPTCHA Vulnerability Analysis | [PDF](https://github.com/omprxkash/captcha-vulnerability-analysis/blob/master/paper/captcha_analysis.pdf) · [.tex](https://github.com/omprxkash/captcha-vulnerability-analysis/blob/master/paper/captcha_analysis.tex) |
+| 14 | Continual Causal Pruning with Fisher Information (ITW submission) | [PDF](https://github.com/omprxkash/continual-causal-pruning/blob/master/paper/ContinualCausalPruning_ITW.pdf) · [.tex](https://github.com/omprxkash/continual-causal-pruning/blob/master/paper/paper.tex) |
+| 15 | Multi-Model Benchmark for Underwater Waste Detection | [PDF](https://github.com/omprxkash/underwater-waste-detection/blob/main/paper.pdf) · [.tex](https://github.com/omprxkash/underwater-waste-detection/blob/main/paper.tex) |
+| 16 | Unified Caption Generation, Translation and Summarization | [PDF](https://github.com/omprxkash/unified-caption-research/blob/main/21BCE1950_AI_DA2_PAPER.pdf) |
+| 17 | Melanin-Based Skin Analysis Using Digital Image Processing | [PDF](https://github.com/omprxkash/melanin-skin-dip/blob/main/21BCE1409_21BCE1950_21BCE5148_DA3%28DIP%29.pdf) |
+| 18 | Encrypted Network Traffic Classification Using ML | [PDF](https://github.com/omprxkash/network-classification-crypto/blob/main/CRYPTO_REPORT_FINAL.pdf) |
 
 ---
 

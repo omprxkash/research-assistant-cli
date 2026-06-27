@@ -18,6 +18,14 @@ Ten projects across machine learning, NLP, computer vision, cybersecurity, and s
 | 8 | [Neural Texture Stylization Using Deep Feature Representations](#8-texture-stylization) | [texture-model-stylization](https://github.com/omprxkash/texture-model-stylization) | [PDF](https://github.com/omprxkash/texture-model-stylization/blob/master/Neural_Texture_Stylization_Omprakash_2025.pdf) |
 | 9 | [Cross-Lingual Transfer for Low-Resource NLP](#9-multilingual-nlp) | [multilingual-resource-models](https://github.com/omprxkash/multilingual-resource-models) | [.tex](https://github.com/omprxkash/multilingual-resource-models/blob/master/paper/main.tex) |
 | 10 | [AI-Integrated Smart Blood Bank Platform](#10-blood-bank) | [blood-bank-platform](https://github.com/omprxkash/blood-bank-platform) | [paper.tex](blood-bank/paper.tex) ← draft |
+| 11 | [Cardiac Arrhythmia Detection from ECG Signals](#11-arrhythmia-ecg) | [arrhythmia-ecg-classification](https://github.com/omprxkash/arrhythmia-ecg-classification) | [PDF](https://github.com/omprxkash/arrhythmia-ecg-classification/blob/master/paper/arrhythmia_ecg_classification_ieee.pdf) · [.tex](https://github.com/omprxkash/arrhythmia-ecg-classification/blob/master/paper/arrhythmia_classification_ieee.tex) |
+| 12 | [Brain Tumor Segmentation from MRI Using U-Net and Diffusion Models](#12-brain-tumor-segmentation) | [brain-tumor-segmentation](https://github.com/omprxkash/brain-tumor-segmentation) | [PDF](https://github.com/omprxkash/brain-tumor-segmentation/blob/master/paper/brain_tumor_segmentation.pdf) · [.tex](https://github.com/omprxkash/brain-tumor-segmentation/blob/master/paper/paper.tex) |
+| 13 | [ML-Based CAPTCHA Vulnerability Analysis and Robustness Benchmarking](#13-captcha-vulnerability) | [captcha-vulnerability-analysis](https://github.com/omprxkash/captcha-vulnerability-analysis) | [PDF](https://github.com/omprxkash/captcha-vulnerability-analysis/blob/master/paper/captcha_analysis.pdf) · [.tex](https://github.com/omprxkash/captcha-vulnerability-analysis/blob/master/paper/captcha_analysis.tex) |
+| 14 | [Continual Causal Pruning with Fisher Information](#14-continual-causal-pruning) | [continual-causal-pruning](https://github.com/omprxkash/continual-causal-pruning) | [PDF](https://github.com/omprxkash/continual-causal-pruning/blob/master/paper/ContinualCausalPruning_ITW.pdf) · [.tex](https://github.com/omprxkash/continual-causal-pruning/blob/master/paper/paper.tex) |
+| 15 | [Multi-Model Benchmark for Underwater Waste Detection](#15-underwater-waste-detection) | [underwater-waste-detection](https://github.com/omprxkash/underwater-waste-detection) | [PDF](https://github.com/omprxkash/underwater-waste-detection/blob/main/paper.pdf) · [.tex](https://github.com/omprxkash/underwater-waste-detection/blob/main/paper.tex) |
+| 16 | [Unified Caption Generation, Translation and Summarization](#16-unified-caption-research) | [unified-caption-research](https://github.com/omprxkash/unified-caption-research) | [PDF](https://github.com/omprxkash/unified-caption-research/blob/main/21BCE1950_AI_DA2_PAPER.pdf) |
+| 17 | [Melanin-Based Skin Analysis Using Digital Image Processing](#17-melanin-skin-dip) | [melanin-skin-dip](https://github.com/omprxkash/melanin-skin-dip) | [PDF](https://github.com/omprxkash/melanin-skin-dip/blob/main/21BCE1409_21BCE1950_21BCE5148_DA3%28DIP%29.pdf) |
+| 18 | [Encrypted Network Traffic Classification Using ML](#18-network-classification-crypto) | [network-classification-crypto](https://github.com/omprxkash/network-classification-crypto) | [PDF](https://github.com/omprxkash/network-classification-crypto/blob/main/CRYPTO_REPORT_FINAL.pdf) |
 
 ---
 
@@ -149,6 +157,104 @@ A full-stack PHP + MySQL blood bank system with donor registration, blood type i
 
 - **Repo**: [blood-bank-platform](https://github.com/omprxkash/blood-bank-platform)
 - **IEEE template**: [blood-bank/paper.tex](blood-bank/paper.tex) ← **draft, fill in your results**
+
+---
+
+## 11. Arrhythmia ECG
+
+**Cardiac Arrhythmia Detection and Multi-Class Classification from ECG Signals**
+
+Deep learning pipeline for arrhythmia detection from raw ECG signals. Classifies 5 rhythms across the MIT-BIH Arrhythmia dataset. Full paper and LaTeX source in the repo.
+
+- **Repo**: [arrhythmia-ecg-classification](https://github.com/omprxkash/arrhythmia-ecg-classification)
+- **Paper PDF**: [arrhythmia_ecg_classification_ieee.pdf](https://github.com/omprxkash/arrhythmia-ecg-classification/blob/master/paper/arrhythmia_ecg_classification_ieee.pdf)
+- **LaTeX source**: [arrhythmia_classification_ieee.tex](https://github.com/omprxkash/arrhythmia-ecg-classification/blob/master/paper/arrhythmia_classification_ieee.tex)
+
+---
+
+## 12. Brain Tumor Segmentation
+
+**Brain Tumor Segmentation from MRI Using U-Net and Diffusion Models**
+
+Segmentation pipeline for brain tumor detection and localisation from MRI scans using MONAI framework. Benchmarks U-Net, Attention U-Net, and diffusion-based segmentation on BraTS. Full paper and LaTeX source in the repo.
+
+- **Repo**: [brain-tumor-segmentation](https://github.com/omprxkash/brain-tumor-segmentation)
+- **Paper PDF**: [brain_tumor_segmentation.pdf](https://github.com/omprxkash/brain-tumor-segmentation/blob/master/paper/brain_tumor_segmentation.pdf)
+- **LaTeX source**: [paper.tex](https://github.com/omprxkash/brain-tumor-segmentation/blob/master/paper/paper.tex)
+
+---
+
+## 13. CAPTCHA Vulnerability
+
+**ML-Based CAPTCHA Vulnerability Analysis and Robustness Benchmarking**
+
+Security analysis of CAPTCHA systems using automated solving with CNNs and adversarial evaluation. Benchmarks text-based, image-based, and audio CAPTCHA robustness across solver architectures. Full paper and LaTeX source in the repo.
+
+- **Repo**: [captcha-vulnerability-analysis](https://github.com/omprxkash/captcha-vulnerability-analysis)
+- **Paper PDF**: [captcha_analysis.pdf](https://github.com/omprxkash/captcha-vulnerability-analysis/blob/master/paper/captcha_analysis.pdf)
+- **LaTeX source**: [captcha_analysis.tex](https://github.com/omprxkash/captcha-vulnerability-analysis/blob/master/paper/captcha_analysis.tex)
+
+---
+
+## 14. Continual Causal Pruning
+
+**Continual Causal Pruning with Fisher Information Against Catastrophic Forgetting**
+
+Fisher information-guided continual learning with causal pruning, benchmarked on Split-CIFAR-100 (20 tasks) and Permuted-MNIST (10 tasks). Submitted to IEEE Information Theory Workshop (ITW). Full paper and LaTeX source in the repo.
+
+- **Repo**: [continual-causal-pruning](https://github.com/omprxkash/continual-causal-pruning)
+- **Paper PDF**: [ContinualCausalPruning_ITW.pdf](https://github.com/omprxkash/continual-causal-pruning/blob/master/paper/ContinualCausalPruning_ITW.pdf)
+- **LaTeX source**: [paper.tex](https://github.com/omprxkash/continual-causal-pruning/blob/master/paper/paper.tex)
+
+---
+
+## 15. Underwater Waste Detection
+
+**Multi-Model Benchmark for Underwater Waste Detection**
+
+YOLOv8, YOLOv11, YOLO-NAS, Faster R-CNN, and YOLO+SAM benchmarked on TrashCan 1.0 for underwater debris detection. Uses SAHI for small object detection and WBF ensemble. Full paper and LaTeX source in the repo.
+
+- **Repo**: [underwater-waste-detection](https://github.com/omprxkash/underwater-waste-detection)
+- **Paper PDF**: [paper.pdf](https://github.com/omprxkash/underwater-waste-detection/blob/main/paper.pdf)
+- **LaTeX source**: [paper.tex](https://github.com/omprxkash/underwater-waste-detection/blob/main/paper.tex)
+
+---
+
+## 16. Unified Caption Research
+
+**Unified Caption Generation, Translation and Summarization**
+
+End-to-end pipeline combining image captioning, multilingual translation, and text summarization into a single inference workflow. Research paper and outputs from AI course project.
+
+- **Repo**: [unified-caption-research](https://github.com/omprxkash/unified-caption-research)
+- **Paper PDF**: [21BCE1950_AI_DA2_PAPER.pdf](https://github.com/omprxkash/unified-caption-research/blob/main/21BCE1950_AI_DA2_PAPER.pdf)
+- **DA3 report**: [21BCE1950_AI_DA3.pdf](https://github.com/omprxkash/unified-caption-research/blob/main/21BCE1950_AI_DA3.pdf)
+- **Notebook**: [Captions Generator, Translator and Summarizer.ipynb](https://github.com/omprxkash/unified-caption-research/blob/main/Captions%20Generator%2C%20Translator%20and%20Summarizer.ipynb)
+
+---
+
+## 17. Melanin Skin DIP
+
+**Melanin-Based Skin Analysis Using Digital Image Processing**
+
+Digital image processing project on melanin quantification in skin imagery. Uses histogram analysis, colour space transformations, and morphological operations for skin tone classification and analysis.
+
+- **Repo**: [melanin-skin-dip](https://github.com/omprxkash/melanin-skin-dip)
+- **Paper PDF**: [21BCE1409_21BCE1950_21BCE5148_DA3(DIP).pdf](https://github.com/omprxkash/melanin-skin-dip/blob/main/21BCE1409_21BCE1950_21BCE5148_DA3%28DIP%29.pdf)
+- **DA1 report**: [21BCE5148_21BCE1409_21BCE1950_DA-1(DIP).pdf](https://github.com/omprxkash/melanin-skin-dip/blob/main/21BCE5148_21BCE1409_21BCE1950_DA-1%28DIP%29.pdf)
+
+---
+
+## 18. Network Classification Crypto
+
+**Encrypted Network Traffic Classification Using Machine Learning**
+
+ML pipeline for classifying encrypted network traffic by application type without deep packet inspection. Uses flow-level statistical features on a network traffic dataset with cryptographic protocol labels.
+
+- **Repo**: [network-classification-crypto](https://github.com/omprxkash/network-classification-crypto)
+- **Paper PDF**: [CRYPTO_REPORT_FINAL.pdf](https://github.com/omprxkash/network-classification-crypto/blob/main/CRYPTO_REPORT_FINAL.pdf)
+- **DA3 report**: [CRYPTO_REPORT_DA3.pdf](https://github.com/omprxkash/network-classification-crypto/blob/main/CRYPTO_REPORT_DA3.pdf)
+- **Notebook**: [c3crypto.ipynb](https://github.com/omprxkash/network-classification-crypto/blob/main/c3crypto%20(1).ipynb)
 
 ---
 
