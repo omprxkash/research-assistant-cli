@@ -205,6 +205,3 @@ ra summarize 1
 
 **Gap analysis**: All paper abstracts are sent in a single Claude prompt, not summarized one-by-one. Research gaps only exist relative to the full corpus — you can't identify them by reading papers individually.
 
-## License
-
-MIT
